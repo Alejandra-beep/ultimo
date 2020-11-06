@@ -1,0 +1,112 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    text-align: justify; 
+}
+.title{
+    text-align: center;
+    color: #005883;
+}
+.titledos{
+    text-align: center;
+    color: #6A9ABB;
+}
+.titletres{
+    color:#6A9ABB;
+    text-align: justify;
+}
+.listas{
+    color:#777474;
+    text-align: justify;
+}
+.descripcion{
+    color:#777474;
+    text-align: center;
+    font-size: smaller;
+}
+.titlebox{
+    text-align: center;
+    color: #F5F2F2;
+}
+.menu{
+    padding: 8px;
+    background-color:#005883;
+    font-size: 15px;
+    text-decoration: none;
+    overflow: hidden;
+}
+.menuizquierda{
+    float: left;
+    padding: 10px;
+    width: 220px;
+    margin: 0px;
+    background-color: #005883;
+}
+.tabla{
+    width: 80%;
+    margin: 40px;
+}
+div{
+    padding: 1em;
+}
+.box{
+    padding: 1px;
+    background-color: #F5F2F2;
+    font-size: 15px;
+    text-decoration: none;
+    overflow: hidden;
+    border-top-style: double;
+    border-bottom-style: double;
+    
+}
+
+.boxinicio{
+    float: left;
+    padding: 30px;
+    margin: 0px;
+    background-color: #F5F2F2;
+    width: 600px;
+}
+.boxinicio1{
+    padding: 1px;
+    background-color: #005883;
+    font-size: 12px;
+    text-decoration: none;
+    overflow: hidden;   
+}
+.boxinicio2{
+    padding: 1px;
+    background-color: #F5F2F2;
+    font-size: 15px;
+    text-decoration: none;
+    overflow: hidden;
+}
+.boxinicio0{
+    float: left;
+    padding: 2px;
+    margin: 20px;
+    background-color: #F5F2F2;
+    width: 380px;
+}
+.izquierda{
+    float: left;
+    padding: 2px;
+    margin: 30px;
+    background-color: #F5F2F2;
+    width: 600px;   
+}
+.margen{
+    padding: 1px;
+    background-color: #C0CCE5;
+    font-size: 15px;
+    text-decoration: none;
+    overflow: hidden;
+}
+.margenizquierda{
+    float: left;
+    padding: 2px;
+    margin: 0px;
+    background-color: #C0CCE5;
+    width: 600px; 
+}
