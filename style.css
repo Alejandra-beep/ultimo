@@ -6,7 +6,7 @@ body{
 }
 .title{
     text-align: center;
-    color: #86C2D2;
+    color:#86C2D2;
 }
 .titledos{
     text-align: center;
@@ -31,7 +31,7 @@ body{
 }
 .menu{
     padding: 8px;
-    background-color: #86C2D2;
+    background-color: #005883;
     font-size: 15px;
     text-decoration: none;
     overflow: hidden;
@@ -41,7 +41,7 @@ body{
     padding: 10px;
     width: 220px;
     margin: 0px;
-    background-color: #86C2D2;
+    background-color: #005883;
 }
 .tabla{
     width: 80%;
