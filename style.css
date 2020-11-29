@@ -103,6 +103,13 @@ div{
     text-decoration: none;
     overflow: hidden;
 }
+.final{
+    padding: 1px;
+    background-color: #636464;
+    font-size: 15px;
+    text-decoration: none;
+    overflow: hidden;
+}
 .margenizquierda{
     float: left;
     padding: 2px;
