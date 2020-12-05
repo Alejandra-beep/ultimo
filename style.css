@@ -117,3 +117,9 @@ div{
     background-color: #C0CCE5;
     width: 600px; 
 }
+.Contenedor{
+    width: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #C0CCE5;
+}
