@@ -113,7 +113,7 @@ div{
 .margenizquierda{
     float: left;
     padding: 2px;
-    margin: 0px;
+    margin: 0 auo;
     background-color: #C0CCE5;
     width: 50%; 
 }
