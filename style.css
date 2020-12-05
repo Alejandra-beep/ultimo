@@ -39,8 +39,8 @@ body{
 .menuizquierda{
     float: left;
     padding: 10px;
-    width: 220px;
-    margin: 0px;
+    width: 10%;
+    margin: 0 auto;
     background-color: #005883;
 }
 .tabla{
