@@ -81,6 +81,7 @@ div{
     font-size: 15px;
     text-decoration: none;
     overflow: hidden;
+    width: 100%;
 }
 .boxinicio0{
     float: left;
