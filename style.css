@@ -124,21 +124,23 @@ div{
     background-color: #FFFFFF;
 }
 .division{
-    width: 100%;
-    max-width: 1000px;
-    margin: 0 auto;
+    padding: 1px;
     background-color: #FFFFFF;
+    font-size: 15px;
+    text-decoration: none;
+    overflow: hidden;
 }
 .division1{
     float: left;
-    width: 50%;
+    padding: 2px;
     margin: 0 auto;
     background-color: #FFFFFF;
+    width: 40%; 
 }
 .division2{
     float: left;
-    padding: 10px;
-    width: 55%;
+    padding: 2px;
     margin: 0 auto;
-    background-color: #FFFFFF;
+    background-color: #C0CCE5;
+    width: 40%; 
 }
