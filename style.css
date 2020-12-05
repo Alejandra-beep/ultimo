@@ -124,11 +124,10 @@ div{
     background-color: #FFFFFF;
 }
 .division{
-    padding: 8px;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
     background-color: #FFFFFF;
-    font-size: 15px;
-    text-decoration: none;
-    overflow: hidden;
 }
 .division1{
     float: left;
