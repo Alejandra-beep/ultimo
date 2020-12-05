@@ -125,13 +125,13 @@ div{
 }
 .division{
     width: 100%;
-    
+    max-width: 1000px;
     margin: 0 auto;
     background-color: #FFFFFF;
 }
 .division1{
     float: left;
-    width: 30%;
+    width: 50%;
     margin: 0 auto;
     background-color: #FFFFFF;
 }
