@@ -18,12 +18,7 @@ body{
 }
 .listas{
     color:#777474;
-    text-align: justify;
-    width: 100%;
-    float: left;
-    padding: 2px;
-    margin: 30px;
-    
+    text-align: justify;    
 }
 .descripcion{
     color:#777474;
@@ -71,7 +66,7 @@ div{
     padding: 2px;
     margin: 30px;
     background-color: #F5F2F2;
-    width: 40%; 
+    width: 100%; 
 }
 .boxinicio1{
     padding: 1px;
