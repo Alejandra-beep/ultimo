@@ -78,9 +78,10 @@ div{
 .boxinicio2{
     padding: 1px;
     background-color: #F5F2F2;
-    font-size: 12px;
+    font-size: 15px;
     text-decoration: none;
-    overflow: hidden; 
+    overflow: hidden;
+    width: 100%;
 }
 .boxinicio0{
     float: left;
