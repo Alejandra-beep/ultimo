@@ -63,10 +63,10 @@ div{
 
 .boxinicio{
     float: left;
-    padding: 30px;
-    margin: 0px;
+    padding: 2px;
+    margin: 30px;
     background-color: #F5F2F2;
-    width: 40%;
+    width: 40%; 
 }
 .boxinicio1{
     padding: 1px;
