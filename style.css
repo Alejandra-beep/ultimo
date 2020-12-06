@@ -76,12 +76,10 @@ div{
     overflow: hidden;   
 }
 .boxinicio2{
-    padding: 1px;
-    background-color: #F5F2F2;
-    font-size: 15px;
-    text-decoration: none;
-    overflow: hidden;
     width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #F5F2F2;
 }
 .boxinicio0{
     float: left;
